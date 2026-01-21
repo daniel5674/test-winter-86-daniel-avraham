@@ -14,7 +14,7 @@ export default function Home() {
           priority
         />
         <div className={styles.intro}>
-          <h1>Student Name</h1>
+          <h1>DANIEL AVRAHAM</h1>
 
             Here your app should come....
 
